@@ -37,8 +37,6 @@ python3.11 setup_graph.py
 python3.11 setup_milvus.py
 python3.11 app.py
 
-Open http://localhost:7860 in your browser.
-
 ## Example Questions
 
 - Which department has the highest budget variance?
